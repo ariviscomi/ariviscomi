@@ -1,19 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-    body {
-      background-image: url('images/background.jpg'); /* Ruta de la imagen de fondo */
-      background-size: cover; /* Para cubrir toda la pantalla */
-      background-position: center; /* Para centrar la imagen */
-      color: white; /* Color del texto */
-      font-family: Arial, sans-serif; /* Tipo de fuente */
-    }
-    .container {
-      padding: 50px;
-      text-align: center;
-    }
-  </style>
+  <link rel="stylesheet" href="style.css"/>
 </head>
 <body>
 
