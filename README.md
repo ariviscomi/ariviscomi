@@ -47,4 +47,6 @@ Mi meta es contribuir con soluciones tecnológicas para mejorar la vida de las p
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-viscomi/)
 
 <!-- WIDGETS -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=ariviscomi&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Ari's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariviscomi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
