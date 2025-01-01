@@ -25,9 +25,8 @@ Mi meta es contribuir con soluciones tecnológicas para mejorar la vida de las p
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 </details>
 
-<details>
-
 **Frameworks / Librerías:**  
+<details>
 <summary></summary>
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
