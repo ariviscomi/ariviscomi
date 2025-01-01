@@ -60,12 +60,13 @@ Mi meta es contribuir con soluciones tecnológicas para mejorar la vida de las p
 
 ## Proyectos Destacados
 
-**Amoblamientos Patagonicos**
+### Amoblamientos Patagonicos
 ![Mi Proyecto](./assets/amoblamientos-patagonicos.png "Sitio web de Catalogo")
 <details>
 <summary>Descripción</summary>
-
+<p>
 "Descubre la colección completa de amoblamientos modernos de Johnson Amoblamientos. Conoce nuestros showrooms en San Carlos de Bariloche, Patagonia Argentina, y renueva tu hogar con estilo y calidad."
+</p>
 </details>
 
 # Contacto
