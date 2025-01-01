@@ -4,7 +4,9 @@
 
 ## Sobre mí
 Soy desarrollador de robótica y programador.👨‍💻
-Vivo en San Carlos de Bariloche, Argentina 🇦🇷.⛰️
+Vivo en
+![My Location]([San Carlos de Bariloche, Argentina 🇦🇷.](https://www.google.com/maps/place/San+Carlos+de+Bariloche,+R%C3%ADo+Negro/@-41.1282354,-71.5047255,11z/data=!3m1!4b1!4m6!3m5!1s0x961a7b1520c860e5:0x8210ae97cb7b9a65!8m2!3d-41.1334722!4d-71.3102778!16zL20vMDM3NXA5?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D))
+⛰️
 Me apasiona la innovación, la tecnología, el medio ambiente y la sustentabilidad.🌱
 #OpenSource💻
 Disfruto de un buen café ☕ en compañía de mis gatos 😺.  
