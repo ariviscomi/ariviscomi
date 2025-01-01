@@ -1,6 +1,7 @@
 ![Mi banner](./assets/banner1.png "Banner de mi perfil")
 # ¡Hola, soy Ariel Viscomi! 👋
-![Mi banner](./assets/banner2.png "Banner de mi perfil")
+
+#
 
 ## Sobre mí
 Soy desarrollador de robótica y programador.👨‍💻
@@ -13,7 +14,8 @@ Disfruto de un buen café ☕ en compañía de mis gatos 😺.
 Me gusta seguir formándome en distintas tecnologías📚, profundizar en Seguridad informática🕵️‍♂️, Domótica💡, Automatización🚀, Inteligencia Artificial🧠 y adquirir nuevas habilidades constantemente⚡.
 Mi meta es contribuir con soluciones tecnológicas para mejorar la vida de las personas🌍.
 
-## Tecnologías y Herramientas
+<details>
+<summary>## Tecnologías y Herramientas</summary>
 
 **Lenguajes:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -43,6 +45,10 @@ Mi meta es contribuir con soluciones tecnológicas para mejorar la vida de las p
 **Sistemas Operativos:**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+</details>
+
+![Mi banner](./assets/banner2.png "Banner de mi perfil")
 
 ## Contacto
 [![Email](https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arielviscomi.mail@gmail.com)
