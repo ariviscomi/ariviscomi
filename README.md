@@ -58,7 +58,19 @@ Mi meta es contribuir con soluciones tecnológicas para mejorar la vida de las p
 
 </details>
 
-## Contacto
+## Proyectos Destacados
+
+<details>
+
+**Amoblamientos Patagonicos**
+![Mi Proyecto](./assets/amoblamientos-patagonicos.png "Sitio web de Catalogo")
+
+<summary>Descripción</summary>
+
+"Descubre la colección completa de amoblamientos modernos de Johnson Amoblamientos. Conoce nuestros showrooms en San Carlos de Bariloche, Patagonia Argentina, y renueva tu hogar con estilo y calidad."
+</details>
+
+# Contacto
 
 [![Email](https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arielviscomi.mail@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-viscomi/)
