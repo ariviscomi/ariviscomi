@@ -61,11 +61,20 @@ Mi meta es contribuir con soluciones tecnológicas para mejorar la vida de las p
 ## Proyectos Destacados
 
 ### Amoblamientos Patagonicos
-![Mi Proyecto](./assets/amoblamientos-patagonicos.png "Sitio web de Catalogo")
+[![Mi Proyecto](./assets/amoblamientos-patagonicos.png "Sitio web de Catalogo")](https://www.amoblamientospatagonicos.com)
 <details>
 <summary>Descripción</summary>
 <p>
 "Descubre la colección completa de amoblamientos modernos de Johnson Amoblamientos. Conoce nuestros showrooms en San Carlos de Bariloche, Patagonia Argentina, y renueva tu hogar con estilo y calidad."
+</p>
+</details>
+
+### Banda "Matame si no te sirvo"
+[![Mi Proyecto](./assets/msnts_web.png "Sitio web para banda de rock")](https://github.com/ariviscomi/msnts_web)
+<details>
+<summary>Descripción</summary>
+<p>
+"La música de 'Matame si no te Sirvo' matiza varias influencias creando en un estilo propio canciones para todos los gustos Dejando la vida en cada acorde."
 </p>
 </details>
 
