@@ -69,8 +69,11 @@ Mi meta es contribuir con soluciones tecnológicas para mejorar la vida de las p
 </p>
 </details>
 
-**Ver Todos**
 <details>
+<summary>
+
+**Ver Todos**
+</summary>
 
 ### Banda "Matame si no te sirvo"
 [![Mi Proyecto](./assets/msnts_web.png "Sitio web para banda de rock")](https://github.com/ariviscomi/msnts_web)
