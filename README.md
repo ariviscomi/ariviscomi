@@ -3,7 +3,7 @@
 # ¡Hola, soy Ariel Viscomi! 👋  
 ### Maker Patagónico 🏔️⚙️ | Robótica 🤖 |
 
-<img src="https://raw.githubusercontent.com/ariviscomi/ariviscomi/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ariviscomi/ariviscomi/output/snake.gif" alt="Snake animation" />
 
 ---
 
