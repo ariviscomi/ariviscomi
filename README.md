@@ -39,9 +39,8 @@ Apoyo el movimiento **Open Source** 💻, disfruto de un buen café ☕ en compa
 
 ## 🛠️ Tecnologías y Herramientas
 
-#### Lenguajes
-
 <div align="center">
+  <h3 width="100%">Lenguajes</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
@@ -53,9 +52,10 @@ Apoyo el movimiento **Open Source** 💻, disfruto de un buen café ☕ en compa
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
 </div>
 
-#### Frameworks
+---
 
 <div align="center">
+  <h3 width="100%">Frameworks</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/sass/CC6699" height="40" alt="sass logo"  />
@@ -65,9 +65,10 @@ Apoyo el movimiento **Open Source** 💻, disfruto de un buen café ☕ en compa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
 </div>
 
-#### Bases de Datos
+---
 
 <div align="center">
+  <h3 width="100%">Bases de Datos</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
@@ -77,9 +78,10 @@ Apoyo el movimiento **Open Source** 💻, disfruto de un buen café ☕ en compa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
-#### Control de versiones
+---
 
 <div align="center">
+  <h3 width="100%">Control de Versiones</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
@@ -87,10 +89,10 @@ Apoyo el movimiento **Open Source** 💻, disfruto de un buen café ☕ en compa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
 </div>
 
-#### Sistemas Operativos
+---
 
 <div align="center">
-  <h2 width="100%">Sistemas Operativos</h2>
+  <h3 width="100%">Sistemas Operativos</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
