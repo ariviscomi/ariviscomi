@@ -4,6 +4,7 @@
 ### Maker Patagónico 🏔️⚙️ | Robótica 🤖 |
 
 <img src="https://raw.githubusercontent.com/ariviscomi/ariviscomi/output/snake.svg" alt="Snake animation" />
+
 ---
 
 ## 🚀 Misión
@@ -24,6 +25,7 @@ Apoyo el movimiento **Open Source** 💻, disfruto de un buen café ☕ en compa
 - Fan de la música 🎸, desde el rock clásico hasta el metal progresivo.  
 - Explorador de curiosidades y aprendiz constante 🧩.  
 - Maker patagónico: fusionando naturaleza y tecnología 🏔️⚙️.
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ariviscomi/ariviscomi/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ariviscomi/ariviscomi/output/pacman-contribution-graph.svg">
@@ -52,8 +54,6 @@ Apoyo el movimiento **Open Source** 💻, disfruto de un buen café ☕ en compa
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
 </div>
 
----
-
 <div align="center">
   <h3 width="100%">Frameworks</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -64,8 +64,6 @@ Apoyo el movimiento **Open Source** 💻, disfruto de un buen café ☕ en compa
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
 </div>
-
----
 
 <div align="center">
   <h3 width="100%">Bases de Datos</h3>
@@ -78,8 +76,6 @@ Apoyo el movimiento **Open Source** 💻, disfruto de un buen café ☕ en compa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
----
-
 <div align="center">
   <h3 width="100%">Control de Versiones</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -88,8 +84,6 @@ Apoyo el movimiento **Open Source** 💻, disfruto de un buen café ☕ en compa
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
 </div>
-
----
 
 <div align="center">
   <h3 width="100%">Sistemas Operativos</h3>
