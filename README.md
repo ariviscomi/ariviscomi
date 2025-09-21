@@ -90,6 +90,7 @@ Apoyo el movimiento **Open Source** 💻, disfruto de un buen café ☕ en compa
 #### Sistemas Operativos
 
 <div align="center">
+  <h2 width="100%">Sistemas Operativos</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
@@ -128,7 +129,7 @@ Apoyo el movimiento **Open Source** 💻, disfruto de un buen café ☕ en compa
 
 ## 📬 Contacto
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/ariel-viscomi/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -138,20 +139,16 @@ Apoyo el movimiento **Open Source** 💻, disfruto de un buen café ☕ en compa
 </div>
 
 ---
-
-![Mi banner](./assets/banner3.png "Banner de mi perfil")
-
 <!-- Widgets -->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ariviscomi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ariviscomi&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ariviscomi&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ariviscomi&theme=dracula&column=3&margin-w=15&margin-h=15&no-bg=true&rank=A,AA,AAA,S,SS,SSS&sort=ranking)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Ari's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariviscomi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ariviscomi.ariviscomi&"  />
 </div>
+
+![Mi banner](./assets/banner3.png "Banner de mi perfil")
