@@ -1,7 +1,7 @@
 ![Mi banner](./assets/banner1.png "Banner de mi perfil")
 
 # ¡Hola, soy Ariel Viscomi! 👋  
-### Maker Patagónico 🏔️⚙️ | Robótica 🤖 | IA 🧠 | Seguridad 🔒 | Innovación Sustentable 🌱
+### Maker Patagónico 🏔️⚙️ | Robótica 🤖 |
 
 ---
 
