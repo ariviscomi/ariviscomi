@@ -3,6 +3,7 @@
 # ¡Hola, soy Ariel Viscomi! 👋  
 ### Maker Patagónico 🏔️⚙️ | Robótica 🤖 |
 
+<img src="https://raw.githubusercontent.com/ariviscomi/ariviscomi/output/snake.svg" alt="Snake animation" />
 ---
 
 ## 🚀 Misión
@@ -22,60 +23,79 @@ Apoyo el movimiento **Open Source** 💻, disfruto de un buen café ☕ en compa
 - Amante de los videojuegos de rol 🎲 y aventuras digitales (Skyrim, Tomb Raider, D&D).  
 - Fan de la música 🎸, desde el rock clásico hasta el metal progresivo.  
 - Explorador de curiosidades y aprendiz constante 🧩.  
-- Maker patagónico: fusionando naturaleza y tecnología 🏔️⚙️.  
+- Maker patagónico: fusionando naturaleza y tecnología 🏔️⚙️.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ariviscomi/ariviscomi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ariviscomi/ariviscomi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ariviscomi/ariviscomi/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
 ## 🗣️ Lema
-*"La tecnología debe mejorar la vida sin dejar atrás la naturaleza."* 🌱🤖
+*"Si funciona, no lo toques... si no, prueba reiniciarlo"* 🤖
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
-<details>
-<summary><b>Lenguajes</b></summary>
+#### Lenguajes
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-</details>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
+</div>
 
-<details>
-<summary><b>Frameworks / Librerías</b></summary>
+#### Frameworks
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-</details>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/sass/CC6699" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+</div>
 
-<details>
-<summary><b>Bases de datos</b></summary>
+#### Bases de Datos
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-</details>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
 
-<details>
-<summary><b>DevOps / Cloud / Control de versiones</b></summary>
+#### Control de versiones
 
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-</details>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+</div>
 
-<details>
-<summary><b>Sistemas Operativos</b></summary>
+#### Sistemas Operativos
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-</details>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+</div>
 
 ---
 
@@ -108,14 +128,30 @@ Apoyo el movimiento **Open Source** 💻, disfruto de un buen café ☕ en compa
 
 ## 📬 Contacto
 
-[![Email](https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arielviscomi.mail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-viscomi/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/ariel-viscomi/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:arielviscomi.mail@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
 ---
 
 ![Mi banner](./assets/banner3.png "Banner de mi perfil")
 
 <!-- Widgets -->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ariviscomi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ariviscomi&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ariviscomi&theme=dracula&column=3&margin-w=15&margin-h=15&no-bg=true&rank=A,AA,AAA,S,SS,SSS&sort=ranking)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Ari's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariviscomi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ariviscomi.ariviscomi&"  />
+</div>
